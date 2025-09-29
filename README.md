@@ -14,7 +14,7 @@ titulo de socorrista
 
 ## Images
 
-![imagen][(https://diocesanos.es/blogs/equipotic/wp-content/uploads/sites/2/2015/07/programacion.png)]
+![imagen](https://diocesanos.es/blogs/equipotic/wp-content/uploads/sites/2/2015/07/programacion.png)
 
 ## Sobre mi
 
