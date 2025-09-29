@@ -1,16 +1,21 @@
-## Hi there 👋
+# Portfolio
 
-<!--
-**alexios0077/alexios0077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Alexios Macarlpú Mellado
 
-Here are some ideas to get you started:
+## Titulacion
+#### Titulo de Bachillerato
+## Experiencia
+#### ninguna
+## Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trilingue **frances español ingles**  
+titulo de socorrista
+
+
+## Images
+
+![This is an alt text](https://playfulagency.com/wp-content/uploads/2022/11/lenguajes-de-programacion-html-y-css.png$0)
+
+## Sobre mi
+
+soy un chico de diecisiete años responsable y con ganas de trabajar, soy muy responsable.
